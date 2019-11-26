@@ -13,7 +13,7 @@ while active:
     else:
         sources.append(queue)
 
-mainCatalogPath = 'C:\\' ############# Изменить путь главного каталога!
+mainCatalogPath = 'C:\\Users\\Rubix327\\Desktop\\backups' ############# Изменить путь главного каталога!
 
 # Changing the main reservation catalog path
 
